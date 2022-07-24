@@ -8,4 +8,4 @@ O Git é um sistema de controle de versões usado para registrar histórico de a
 [Clique aqui](https://git-scm.com/)
 
 ### Comandos Básicos
-[Comandos Básicos](comandosbasicos.md) <br>
+[Comandos Básicos](Comandosbasicos.md) <br>
