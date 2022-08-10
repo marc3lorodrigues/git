@@ -14,9 +14,9 @@ O Git é um sistema de controle de versões usado para registrar histórico de a
 [Clique aqui](https://git-scm.com/)
 
 ## Comandos Básicos
-* git init
-* git status
-* git commit
+* git init - Inicia um repositório git.
+* git status - Verifica o status do repositório.
+* git commit - Confirma as alterações feitas no repositório.
 
 
 ## GitHub
