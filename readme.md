@@ -17,6 +17,11 @@ O Git é um sistema de controle de versões usado para registrar histórico de a
 * git init - Inicia um repositório git.
 * git status - Verifica o status do repositório.
 * git commit - Confirma as alterações feitas no repositório.
+* git branch - Visualiza as branches disponíveis.
+  * git branch [nome] - Cria uma nova Branch.
+  - d - Deleta uma branch.
+* git checkout - Muda de Branch.
+  * -b Muda e cria uma nova branch.
 
 
 ## GitHub
