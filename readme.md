@@ -22,6 +22,8 @@ O Git é um sistema de controle de versões usado para registrar histórico de a
   - d - Deleta uma branch.
 * git checkout - Muda de Branch.
   * -b Muda e cria uma nova branch.
+* git merge - Une as alterações da branch indicada a branch corrente.
+
 
 
 ## GitHub
